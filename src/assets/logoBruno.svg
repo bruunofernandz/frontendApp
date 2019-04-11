@@ -1,0 +1,35 @@
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 92.41 14.51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        font-size: 12.63px;
+        fill: #6a59bc;
+        font-family: Gilroy-ExtraBold, Gilroy;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.02em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="75.21" y1="18.8" x2="61.56" y2="18.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0.03" stop-color="#c500e0"/>
+      <stop offset="1" stop-color="#66a8de"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="20.25" y1="2.44" x2="6.6" y2="2.44" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>logoBruno</title>
+  <g>
+    <path class="cls-1" d="M78.38,18.42l-4.77-6.37h0l0,0,0,0,0,0h0l0,0h0l0,0h0l-.05,0h0l0,0H60.14a.64.64,0,0,0,0,1.28h4a.45.45,0,0,1,.45.44.46.46,0,0,1-.13.32.44.44,0,0,1-.32.13H57.83a.64.64,0,1,0,0,1.27h4.59a.7.7,0,0,1,.49,1.2.72.72,0,0,1-.49.2H55.59a.64.64,0,0,0,0,1.28h4.25a.89.89,0,0,1,.89.89.9.9,0,0,1-.26.63.88.88,0,0,1-.63.26H57.19a.64.64,0,1,0,0,1.28h5a1,1,0,0,1,.53.16,1,1,0,0,1,.38.5h0a1,1,0,0,1-.24,1,1,1,0,0,1-.68.28H60.42a.64.64,0,1,0,0,1.27h4a.19.19,0,0,1,.19.19.16.16,0,0,1-.06.13.19.19,0,0,1-.13.05h-.87a.64.64,0,0,0,0,1.28h9.68l.06,0h0l.05,0h0l0,0h0l0,0h0s0,0,0,0l0,0,0,0h0l4.77-6.37A.63.63,0,0,0,78.38,18.42Zm-9.55-5.35h3l-1.91,2.54L68,13.07Zm-5.57,5,.66-.89h0l1.78-2.36h0L66,14.5h0l.75-1,.33.43h0l2.06,2.75L68,18.16H63.22ZM67,24.53l-.8-1.07L64.17,20.7l-.5-.67h0l-.44-.59H68l3.82,5.09Zm8.64-3.86L74.13,18.8l-.68,1L75,21.61l-1.87,2.5-4-5.31,4-5.31,4,5.31Z" transform="translate(-54.96 -11.79)"/>
+    <polygon class="cls-2" points="16.11 1.75 13.94 1.75 14.98 3.14 16.11 1.75"/>
+  </g>
+  <text class="cls-3" transform="translate(24.03 11.1)">Bruno Dri<tspan class="cls-4" x="54.49" y="0">v</tspan><tspan x="61.06" y="0">e</tspan></text>
+</svg>
